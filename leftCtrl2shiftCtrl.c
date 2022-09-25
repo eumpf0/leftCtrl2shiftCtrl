@@ -1,3 +1,8 @@
+// -------------------------------------------------------+
+//    leftCtrl2shiftCtrl - an interception-tools plugin   |
+//        Elias Rumpf (github.com/eumpf0), 2022           |
+// -------------------------------------------------------+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <linux/input.h>
